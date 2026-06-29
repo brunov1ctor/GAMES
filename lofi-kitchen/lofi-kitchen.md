@@ -793,3 +793,450 @@ Somente depois adicionar:
 
 ### Prioridade Absoluta
 > **FAZER O LOOP DE COZINHAR SER DIVERTIDO ANTES DE ESCALAR O RESTO.**
+
+Sistema de "Personalidade dos Utensílios
+Exemplo:
+
+Panela de Ferro 
++20% para ensopados
+Esquenta lentamente
+
+Panela de Cobre
+Aquece muito rápido
+Excelente para molhos
+Queima facilmente se ignorada
+
+Panela de Barro
+Cozimento lento
+Ideal para caldos
+
+# Assinatura do Chef
+Alguma especialidade ou modo de preparo
+
+# Inspecionar objetos
+
+Panela de Ferro Nº 01
+
+Comprada: Dia 3
+Litros na panela:3
+Desgaste: Nova
+Pratos preparados: 2.487
+Ensopados: 614
+Ramens: 398
+Horas no fogo: 173 h
+Seasoning: 96%
+Histórias: "Foi usada no primeiro prato cinco estrelas", "Estava presente durante a visita do primeiro crítico gastronômico".
+
+# MULTIPLAYER
+1. Mesmo restaurante
+
+Amigos trabalham juntos no mesmo estabelecimento.
+Exemplo:
+jogador 1 cozinha
+jogador 2 explora ingredientes
+jogador 3 atende clientes
+jogador 4 organiza estoque / lava utensílios / cuida dos pets
+Perfeito para o loop de gestão paralela da cozinha, que já é central no GDD.
+
+2. Restaurantes rivais no mesmo bairro
+Cada jogador começa em um ponto diferente do mapa.
+Eles competem por:
+clientes
+fornecedores
+reputação
+ingredientes raros
+eventos gastronômicos
+reviews
+ranking semanal do bairro
+Mas sem virar tóxico. Rivalidade leve e divertida.
+
+3. Modo misto
+
+Dois jogadores podem ter restaurantes separados, mas fazer parcerias temporárias.
+Exemplo:
+Festival da Chuva
+Evento de Ramen Noturno
+Catering para NPC importante
+Competição de prato artesanal
+Mecânicas boas para o multiplayer
+Fornecedores compartilhados
+
+Um fornecedor aparece à noite com peixe raro.
+Quem chegar primeiro compra.
+Ou dois jogadores podem dividir o lote.
+Reputação por bairro
+Cada restaurante ajuda a evoluir o bairro.
+Mesmo rivais, todos contribuem para deixar a região mais viva.
+Visita ao restaurante do amigo
+O jogador pode visitar, comer, avaliar e até deixar gorjeta.
+Sabotagem leve
+Nada agressivo.
+Exemplos:
+comprar estoque antes do rival
+espalhar boato engraçado
+mandar cliente exigente para o amigo
+desafiar para duelo culinário
+Cozinha compartilhada
+
+No mesmo restaurante, precisa ter comunicação:
+“Cuida do arroz, eu vou fritar o peixe.”
+Isso combina muito com a ideia de atenção parcial.
+Progressão multiplayer
+O host cria o mundo.
+Depois convida amigos.
+Cada amigo escolhe:
+entrar como sócio do restaurante;
+abrir um restaurante rival;
+trabalhar temporariamente como chef convidado.
+Modos
+1. Mesmo restaurante
+
+Amigos trabalham juntos no mesmo estabelecimento.
+
+Exemplo:
+
+jogador 1 cozinha
+jogador 2 explora ingredientes
+jogador 3 atende clientes
+jogador 4 organiza estoque / lava utensílios / cuida dos pets
+
+Perfeito para o loop de gestão paralela da cozinha, que já é central no GDD.
+
+2. Restaurantes rivais no mesmo bairro
+
+Cada jogador começa em um ponto diferente do mapa.
+
+Eles competem por:
+
+clientes
+fornecedores
+reputação
+ingredientes raros
+eventos gastronômicos
+reviews
+ranking semanal do bairro
+
+Mas sem virar tóxico. Rivalidade leve e divertida.
+
+3. Modo misto
+
+Dois jogadores podem ter restaurantes separados, mas fazer parcerias temporárias.
+
+Exemplo:
+
+Festival da Chuva
+Evento de Ramen Noturno
+Catering para NPC importante
+Competição de prato artesanal
+Mecânicas boas para o multiplayer
+Fornecedores compartilhados
+
+Um fornecedor aparece à noite com peixe raro.
+Quem chegar primeiro compra.
+Ou dois jogadores podem dividir o lote.
+Reputação por bairro
+Cada restaurante ajuda a evoluir o bairro.
+Mesmo rivais, todos contribuem para deixar a região mais viva.
+Visita ao restaurante do amigo
+O jogador pode visitar, comer, avaliar e até deixar gorjeta.
+
+Sabotagem leve
+
+Nada agressivo.
+
+Exemplos:
+
+comprar estoque antes do rival
+espalhar boato engraçado
+mandar cliente exigente para o amigo
+desafiar para duelo culinário
+Cozinha compartilhada
+
+No mesmo restaurante, precisa ter comunicação:
+“Cuida do arroz, eu vou fritar o peixe.”
+Isso combina muito com a ideia de atenção parcial.
+Progressão multiplayer
+O host cria o mundo.
+Depois convida amigos.
+
+Cada amigo escolhe:
+entrar como sócio do restaurante;
+abrir um restaurante rival;
+trabalhar temporariamente como chef convidado.
+
+
+Em vez de criar punições aleatórias, eu faria um sistema onde o bairro é vivo e imprevisível, obrigando o jogador a se adaptar como um verdadeiro dono de restaurante.
+
+Sistema de Desafios do Bairro
+Os problemas acontecem naturalmente.
+Não parecem eventos de videogame.
+Parecem coisas da vida real.
+Problemas do Imóvel
+Encanamento
+Pode ocorrer:
+vazamento
+pia entupida
+baixa pressão
+água quente para de funcionar
+
+Consequências:
+
+lavar pratos demora mais
+alguns equipamentos ficam inutilizados
+piso molhado aumenta risco de acidentes
+
+Soluções:
+
+contratar encanador
+consertar sozinho (minigame)
+trocar tubulação
+Energia
+queda de energia
+fusível queimado
+freezer desliga
+luz piscando
+
+O jogador pode comprar:
+
+gerador
+nobreak para equipamentos críticos
+sistema elétrico novo
+Gás
+botijão acaba
+vazamento
+inspeção
+Exaustão
+
+Se não limpar:
+
+fumaça aumenta
+clientes reclamam
+cozinheiros cansam mais
+Imóvel
+
+O aluguel nunca é fixo.
+
+Depende de:
+
+fama do bairro
+inflação
+interesse imobiliário
+eventos
+
+Exemplo:
+
+Um shopping abre perto.
+
+↓
+
+Aluguel sobe.
+
+Você decide:
+
+pagar
+mudar de ponto
+comprar o imóvel
+Movimento da Rua
+
+Essa é uma das minhas ideias favoritas.
+
+Cada rua possui um índice de movimento.
+
+Exemplo:
+
+Segunda:
+
+⭐⭐⭐⭐☆
+
+Quarta:
+
+⭐⭐☆☆☆
+
+Domingo:
+
+⭐⭐⭐⭐⭐
+
+Dias de chuva:
+
+⭐⭐⭐⭐⭐ para cafés e sopas
+
+Dias quentes:
+
+⭐⭐⭐⭐⭐ para sorvetes e drinks
+
+Concorrência
+
+Um NPC abre uma pizzaria.
+
+Você perde clientes.
+
+Meses depois:
+
+Ela fecha.
+
+Ou muda de culinária.
+
+Ou vira sua parceira.
+
+Obras na Rua
+
+A prefeitura fecha parte da rua.
+
+Durante uma semana:
+
+menos movimento
+poeira
+menos turistas
+
+Depois:
+
+Rua reformada.
+
+Mais clientes.
+Transporte
+Nova estação de metrô.
+
+↓
+
+Fluxo aumenta.
+
+Ou...
+
+Uma linha de ônibus muda.
+↓
+Fluxo diminui.
+
+Criminalidade
+
+Sem exageros.
+
+Exemplos:
+
+pichações
+pequeno furto
+janela quebrada
+
+O jogador pode:
+
+instalar câmera
+contratar segurança
+melhorar iluminação
+Economia
+
+Ingredientes mudam de preço.
+
+Exemplo:
+Tempestade destruiu plantações.
+↓
+Tomate +80%
+Você muda o cardápio.
+
+Tendências
+
+Uma influencer viraliza:
+"Curry Picante"
+Durante duas semanas:
+Todo mundo quer curry.
+
+Depois:
+Moda acaba.
+Clientes
+Mudam conforme a estação.
+
+Inverno:
+Mais:
+
+sopas
+ramen
+chocolate quente
+
+Verão:
+Mais:
+
+sorvete
+drinks
+saladas
+Funcionários
+
+Eles também têm problemas.
+
+ficam gripados
+pedem férias
+aprendem novas habilidades
+recebem proposta de outro restaurante
+brigam entre si
+Pets
+
+O gato derruba um pote.
+O cachorro espanta rato.
+A coruja percebe fumaça.
+
+São pequenos acontecimentos que tornam a cozinha mais viva.
+
+Fiscalização
+
+O bairro recebe inspeções.
+São anunciadas alguns dias antes.
+
+O jogador decide:
+limpar tudo
+ignorar
+
+Nota alta:
+Reputação.
+Nota baixa:
+Multa.
+
+Eventos Climáticos
+tempestade
+onda de calor
+neve (em mapas específicos)
+ventania
+
+Tudo muda o comportamento dos clientes.
+
+Bairro Vivo
+
+Imagine o jogador entrando hoje.
+
+Na semana passada:
+
+Uma cafeteria abriu.
+
+Hoje:
+
+Virou livraria.
+
+Mês seguinte:
+
+Fechou.
+
+No lugar:
+
+Abriu um bar.
+O bairro nunca é igual.
+Grandes Decisões
+Conforme o restaurante cresce, surgem oportunidades que mudam permanentemente a campanha.
+
+Exemplos:
+
+Comprar o prédio
+
+Vantagens:
+
+nunca mais paga aluguel;
+pode reformar livremente.
+
+Desvantagens:
+
+investimento muito alto;
+menos capital para expansão.
+Mudar para um bairro nobre
+Mais clientes.
+Mais aluguel.
+Mais concorrência.
+Abrir uma segunda unidade
+Você passa a administrar duas cozinhas.
+Permanecer no bairro antigo
+Clientes antigos continuam fiéis. Fulano é Cliente a tanto tempo ... voce so conhece os clientes interagindo ao longo do game vai conhecendo aos poucos as pessoas do bairro.
+Você mantém a identidade local.

@@ -1,0 +1,641 @@
+# PROJECT EDEN (Nome Provisório)
+
+## Visão Geral
+
+Project Eden é um jogo de sobrevivência em mundo aberto focado em exploração, observação, construção, craft e utilização inteligente do ambiente.
+O combate não é baseado em equipamentos extremamente poderosos, mas na capacidade do jogador de compreender o comportamento das criaturas e utilizar o planeta a seu favor.
+O mundo é hostil, vivo e independente.
+O jogador não é o herói.
+É apenas mais um sobrevivente tentando completar uma missão impossível.
+
+---
+
+# Gênero
+
+* Survival
+* Open World
+* Sandbox
+* Craft
+* Construção
+* Exploração
+* PvE
+* Cooperativo (opcional)
+
+---
+
+# História
+
+Décadas atrás, a humanidade descobriu um planeta extremamente rico em recursos biológicos, minerais e espécies desconhecidas.
+Uma enorme estação científica foi construída para pesquisar o planeta.
+Durante anos tudo funcionou normalmente.
+Até que toda comunicação foi perdida.
+Nenhuma mensagem.
+Nenhum pedido de socorro.
+Apenas silêncio.
+Diversas equipes de resgate foram enviadas.
+Nenhuma retornou.
+Após inúmeros fracassos, o governo criou um programa especial.
+Condenados recebem uma proposta.
+Caso consigam restaurar a estação científica e enviar a confirmação de missão concluída, terão sua pena completamente anulada.
+O jogador aceita essa missão.
+
+Ao chegar ao planeta, descobre que centenas de outros condenados receberam exatamente a mesma promessa.
+
+---
+
+# Objetivo Principal
+
+Encontrar a estação científica.
+Restaurar seus sistemas.
+Enviar a confirmação para a Terra.
+Sobreviver até a nave de extração chegar.
+
+---
+
+# Filosofia
+
+O jogador não conquista o planeta através da força.
+Ele conquista o planeta através do conhecimento.
+Cada criatura estudada.
+Cada armadilha construída.
+Cada recurso economizado.
+Cada descoberta.
+Representa evolução.
+
+---
+
+# Gameplay Loop
+
+Explorar.
+
+↓
+
+Observar.
+
+↓
+
+Coletar recursos.
+
+↓
+
+Construir ferramentas.
+
+↓
+
+Estudar criaturas.
+
+↓
+
+Construir armadilhas.
+
+↓
+
+Sobreviver.
+
+↓
+
+Expandir conhecimento.
+
+↓
+
+Avançar para novas regiões.
+
+↓
+
+Restaurar a estação.
+
+---
+
+# Sobrevivência
+
+O jogador precisa administrar:
+
+* fome
+* sede
+* temperatura
+* fadiga
+* ferimentos
+* infecções
+* peso carregado
+
+Recursos são limitados.
+
+Cada decisão importa.
+
+---
+
+# Construção
+
+O jogador pode construir:
+
+* abrigos
+* fogueiras
+* oficinas
+* depósitos
+* torres de observação
+* cercas
+* passarelas
+* pontes
+* armadilhas
+* pequenas bases
+
+As bases são funcionais, não fortalezas gigantes.
+
+---
+
+# Craft
+
+O craft utiliza materiais naturais.
+
+Exemplos.
+Madeira.
+Pedra.
+Fibras.
+Couro.
+Ossos.
+Resinas.
+Metais.
+
+Componentes encontrados na estação.
+
+O jogador fabrica:
+Ferramentas.
+Equipamentos.
+Construções.
+Armadilhas.
+Medicamentos.
+Itens de sobrevivência.
+
+---
+
+# Sistema de Armadilhas
+
+Não existem armadilhas prontas.
+
+O jogador utiliza princípios físicos.
+
+Gravidade.
+Tensão.
+Contrapeso.
+Polias.
+Fogo.
+Água.
+Peso.
+Cada situação exige criatividade.
+
+---
+
+# Sistema de Conhecimento
+
+O verdadeiro progresso acontece através da observação.
+
+O jogador aprende:
+
+* hábitos
+* alimentação
+* rotas
+* territórios
+* sentidos
+* fraquezas
+* horários
+
+Quanto maior o conhecimento, maior a chance de sobrevivência.
+
+---
+
+# Criaturas
+
+Cada espécie possui:
+Peso.
+Velocidade.
+Força.
+Inteligência.
+Visão.
+Audição.
+Olfato.
+Território.
+Rotina.
+Comportamento.
+Nenhuma criatura existe apenas para atacar o jogador.
+
+Todas fazem parte do ecossistema.
+
+---
+
+# Progressão das Espécies
+
+Fauna pequena.
+
+↓
+
+Predadores menores.
+
+↓
+
+Predadores intermediários.
+
+↓
+
+Grandes predadores.
+
+↓
+
+Apex Predators.
+
+↓
+
+Espécies lendárias.
+
+Cada nova categoria exige novas estratégias.
+
+---
+
+# Bestiário
+
+O bestiário começa vazio.
+As informações são desbloqueadas através da observação.
+Pegadas.
+Ninhos.
+Restos de caça.
+Comportamento.
+Confrontos.
+Análises.
+O jogador nunca recebe todas as respostas automaticamente.
+
+---
+
+# Cápsulas
+
+Diversas cápsulas encontram-se espalhadas pelo planeta.
+
+Elas pertencem a antigos sobreviventes.
+Cada uma pode conter:
+
+* equipamentos;
+* alimentos;
+* ferramentas;
+* mapas;
+* anotações;
+* diários;
+* projetos;
+* armadilhas;
+* registros científicos.
+
+As cápsulas contam pequenas histórias sem utilizar cutscenes.
+
+---
+
+# Estação Científica
+
+A estação é o objetivo principal.
+Ela encontra-se parcialmente destruída.
+O jogador precisa restaurar:
+Energia.
+Comunicações.
+Laboratórios.
+Antenas.
+Reatores.
+Computadores.
+Cada setor exige materiais específicos encontrados durante a exploração.
+
+---
+
+# Ecossistema
+
+O planeta é vivo.
+
+As espécies:
+Caçam.
+Dormem.
+Migraram.
+Defendem território.
+Se reproduzem.
+Disputam alimento.
+O jogador interfere diretamente nesse equilíbrio.
+
+---
+
+# Mundo Dinâmico
+
+Eventos naturais acontecem constantemente.
+Tempestades.
+Incêndios.
+Enchentes.
+Migração de espécies.
+Deslizamentos.
+Mudanças climáticas.
+O planeta continua evoluindo mesmo sem a presença do jogador.
+
+---
+
+# Legado
+
+Centenas de sobreviventes passaram pelo planeta.
+Todos deixaram vestígios.
+Diários.
+Acampamentos.
+Ferramentas.
+Construções.
+Esqueletos.
+O jogador aprende com seus erros.
+Ao concluir a missão, também deixará seu próprio legado para aqueles que vierem depois.
+
+---
+
+# Objetivo Final
+
+Após restaurar completamente a estação científica, o jogador envia para a Terra a confirmação da missão.
+Uma nave automática inicia o protocolo de extração.
+Enquanto aguarda sua chegada, precisa enfrentar o momento mais perigoso da campanha.
+As criaturas do planeta são atraídas pela intensa atividade da estação reativada e pelo ruído da nave entrando na atmosfera.
+Sobreviver até o pouso representa o último desafio.
+Ao embarcar, o jogador finalmente conquista sua liberdade.
+Mas deixa para trás um planeta que continuará recebendo novos condenados.
+O ciclo recomeça.
+
+---
+
+# Pilares do Projeto
+
+• Sobrevivência baseada em conhecimento.
+• Ecossistema vivo e independente.
+• IA avançada das criaturas.
+• Craft profundo.
+• Construção funcional.
+• Física aplicada às armadilhas.
+• Exploração recompensadora.
+• Narrativa ambiental.
+• Progressão sem níveis tradicionais.
+
+• Cada vitória deve ser conquistada através de observação, planejamento e adaptação, nunca apenas pelo poder do equipamento.
+
+# Filosofia das Espécies
+
+O perigo de uma criatura nunca deve ser definido apenas pelo seu tamanho.
+Uma criatura pequena pode representar um risco muito maior do que um animal gigantesco.
+Cada espécie deve possuir uma forma própria de desafiar o jogador.
+O jogador deve aprender a respeitar todas as formas de vida do planeta.
+
+---
+
+# Tipos de Perigo
+
+## Força Física
+
+Grandes predadores.
+
+Exemplos.
+
+* esmagam estruturas;
+* derrubam árvores;
+* quebram armadilhas;
+* suportam grande quantidade de dano.
+
+---
+
+## Velocidade
+
+Criaturas extremamente rápidas.
+São difíceis de atingir.
+Mudam de direção rapidamente.
+Obrigam o jogador a preparar o terreno antes do combate.
+
+---
+
+## Inteligência
+
+Espécies capazes de aprender.
+
+Podem:
+
+* evitar armadilhas conhecidas;
+* investigar construções;
+* perseguir rastros;
+* atacar em momentos favoráveis;
+* adaptar seu comportamento.
+
+---
+
+## Ataque em Grupo
+
+Uma criatura isolada representa pouco perigo.
+O problema é o grupo.
+Algumas espécies nunca atacam sozinhas.
+Elas cercam.
+Flanqueiam.
+Revezam ataques.
+Tentam separar jogadores.
+
+---
+
+## Emboscada
+
+Espécies que permanecem imóveis durante horas.
+Atacam apenas quando a presa entra em alcance.
+Podem se camuflar completamente.
+
+---
+
+## Camuflagem
+
+Algumas criaturas praticamente desaparecem no ambiente.
+
+Elas utilizam:
+
+* vegetação;
+* pedras;
+* lama;
+* neve;
+* sombras.
+
+Encontrá-las antes que ataquem faz parte da sobrevivência.
+
+---
+
+## Veneno
+
+Nem sempre mata imediatamente.
+
+Pode causar:
+
+* febre;
+* perda de visão;
+* lentidão;
+* alucinações;
+* sangramento;
+* dificuldade respiratória.
+
+Às vezes sobreviver ao ataque é apenas o começo do problema.
+
+---
+
+## Parasitas
+
+Algumas espécies não caçam diretamente.
+Elas deixam ovos.
+Larvas.
+Esporos.
+O jogador precisa remover a infestação antes que ela evolua.
+
+---
+
+## Doenças
+
+Determinadas criaturas contaminam água, alimentos ou ferimentos.
+A ameaça permanece mesmo após o combate.
+
+---
+
+## Sons
+
+Algumas espécies produzem sons capazes de:
+
+* desorientar;
+* atrair outros predadores;
+* assustar animais de criação;
+* interromper comunicação entre jogadores.
+
+---
+
+## Odor
+
+Criaturas podem marcar território.
+O cheiro permanece durante dias.
+Outras espécies reconhecem esse odor.
+O jogador pode ser localizado apenas porque atravessou uma área marcada.
+
+---
+
+## Território
+
+Algumas espécies defendem uma região.
+Outras perseguem qualquer invasor.
+Outras simplesmente ignoram o jogador.
+Cada comportamento altera completamente a estratégia.
+
+---
+
+## Resistência
+
+Nem toda criatura é difícil porque causa muito dano.
+Algumas simplesmente não desistem.
+Podem perseguir o jogador durante horas.
+Obrigando-o a abandonar equipamentos ou mudar completamente sua rota.
+
+---
+
+## Inteligência Social
+
+Espécies altamente sociais podem:
+
+* avisar outras através de vocalizações;
+* proteger indivíduos feridos;
+* atacar simultaneamente;
+* dividir funções durante a caça.
+
+---
+
+## Manipulação do Ambiente
+
+Algumas criaturas modificam o próprio ecossistema.
+
+Exemplos.
+
+Construção de ninhos.
+Barragens.
+Túneis.
+Teias.
+Tocas.
+Árvores derrubadas.
+O jogador precisa compreender essas mudanças para sobreviver.
+
+---
+
+# Exemplos de Espécies
+
+## O Gigante Pacífico
+
+Possui oito metros de altura.
+Extremamente forte.
+Quase nunca ataca.
+Só reage quando ameaçado.
+É mais perigoso pela destruição causada durante sua fuga do que por agressividade.
+
+---
+
+## O Caçador Invisível
+
+Tem apenas o tamanho de um lobo.
+Camufla-se perfeitamente.
+Quase ninguém consegue vê-lo antes do ataque.
+
+---
+
+## A Matriarca
+
+Fisicamente não é muito poderosa.
+Porém controla dezenas de indivíduos menores.
+Eliminar apenas os subordinados nunca resolve o problema.
+
+---
+
+## O Parasita
+
+Possui menos de vinte centímetros.
+Entra em equipamentos.
+Contamina alimentos.
+Infesta ferimentos.
+Pode destruir uma expedição inteira sem atacar diretamente.
+
+---
+
+## O Sentinela
+
+Quase nunca luta.
+Sua função é observar.
+Quando detecta perigo, emite um chamado.
+Poucos minutos depois chegam predadores muito maiores.
+
+---
+
+## O Perseguidor
+
+Não corre.
+Não salta.
+Não é forte.
+Mas nunca perde o rastro da presa.
+Pode acompanhar o jogador durante vários dias até encontrar uma oportunidade de ataque.
+
+---
+
+# Filosofia Final
+
+Cada espécie deve ser lembrada por seu comportamento.
+Nunca apenas por seus atributos físicos.
+Quando um jogador mencionar uma criatura, ele deve dizer:
+"Tenha cuidado, ela chama reforços."
+
+Ou.
+
+"Ela nunca atravessa rios."
+
+Ou.
+
+"Ela destrói armadilhas simples."
+E não apenas.
+"Ela tem muita vida."
+
+Ao invés de dividir apenas em fraco, médio e forte, cada criatura recebe um ou mais papéis no ecossistema:
+
+Apex – domina pela força.
+Emboscador – vence pela surpresa.
+Rastreador – nunca perde o cheiro da presa.
+Necrófago – aparece após combates para disputar carcaças.
+Construtor – altera o ambiente com ninhos, barragens ou tocas.
+Parasita – enfraquece lentamente o jogador.
+Sentinela – detecta invasores e alerta outras espécies.
+Oportunista – ataca apenas quando a vítima está ferida ou cansada.
+Territorial – protege uma área específica com extrema agressividade.
+...
+
+nao precisa dar nomes aos bichos o player deve montar seu bestiario nomear e catalogar 

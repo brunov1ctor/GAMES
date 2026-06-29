@@ -1,0 +1,148 @@
+# TREEHAVEN
+
+## Documento de Visão Inicial
+
+---
+
+# Visão Geral
+
+Treehaven é um jogo do gênero **Cozy Life Sim** com foco em gerenciamento, exploração e construção.
+
+O jogador vive em uma enorme árvore e deve administrar sua própria casa, transformando-a gradualmente em um grande lar integrado à natureza.
+
+O jogo busca proporcionar uma experiência relaxante, contemplativa e aconchegante, onde o foco não está em combate ou competição, mas em construir um lugar onde o jogador realmente gostaria de viver.
+
+---
+
+# Conceito Principal
+
+O jogador recebe uma pequena casa construída em uma árvore.
+
+A partir dela será possível:
+
+* administrar sua casa;
+* explorar o mundo ao redor;
+* coletar recursos;
+* retornar para casa;
+* construir melhorias.
+
+Toda a progressão acontece através da evolução da própria casa e da árvore.
+
+---
+
+# Objetivo
+
+Criar um lar cada vez maior e mais bonito, expandindo a casa na árvore conforme novos recursos são obtidos durante a exploração.
+
+---
+
+# Direção Artística
+
+O jogo utiliza uma direção artística **Painterly Stylized 3D**.
+
+As principais características são:
+
+* iluminação quente;
+* atmosfera aconchegante;
+* aparência de pintura digital;
+* vegetação abundante;
+* arquitetura integrada às árvores;
+* madeira, plantas e natureza como elementos predominantes;
+* interface discreta para destacar o cenário.
+
+As referências visuais são as casas na árvore e os ambientes cozy apresentados durante a concepção do projeto.
+
+---
+
+# Estrutura Inicial do Jogo
+
+O jogador inicia com:
+
+* uma pequena casa na árvore;
+* um único ambiente interno;
+* poucos móveis;
+* ferramentas básicas.
+
+A casa representa o centro da experiência.
+
+---
+
+# Gameplay
+
+O ciclo principal consiste em:
+
+1. Sair da casa.
+2. Explorar o mapa.
+3. Coletar recursos naturais.
+4. Retornar para casa.
+5. Utilizar os recursos para melhorar a residência.
+6. Repetir o ciclo.
+
+---
+
+# Exploração
+
+O mundo pode ser explorado livremente.
+
+Durante a exploração o jogador poderá coletar diferentes tipos de recursos encontrados na natureza.
+
+Esses recursos serão utilizados para construir e melhorar a casa.
+
+---
+
+# Casa na Árvore
+
+A casa é o elemento principal do jogo.
+
+Ela funciona como:
+
+* residência do jogador;
+* local de gerenciamento;
+* espaço para construção;
+* ambiente para decoração.
+
+Conforme o jogador progride, a casa cresce e novas áreas podem ser adicionadas.
+
+---
+
+# Construção
+
+A construção acontece diretamente na árvore.
+
+O jogador utiliza os recursos coletados para ampliar sua residência e personalizar seu espaço.
+
+---
+
+# Atmosfera
+
+O jogo busca transmitir constantemente uma sensação de tranquilidade.
+
+Os cenários são ricos em natureza, iluminação acolhedora e arquitetura orgânica integrada às árvores.
+
+O objetivo é fazer com que o jogador tenha vontade de permanecer naquele ambiente apenas apreciando a paisagem.
+
+---
+
+# Experiência do Jogador
+
+O jogo incentiva um ritmo calmo.
+
+Não existe pressão constante.
+
+O jogador escolhe quando explorar, quando retornar para casa e quando investir na evolução da sua árvore.
+
+Toda a experiência gira em torno do equilíbrio entre exploração e desenvolvimento do próprio lar.
+
+---
+
+# Identidade do Projeto
+
+Treehaven é um jogo sobre viver em uma casa na árvore.
+
+Enquanto a maior parte dos jogos do gênero utiliza fazendas ou cidades como centro da progressão, Treehaven utiliza uma árvore viva como elemento central da experiência.
+
+Toda a identidade visual e toda a evolução do jogador acontecem em torno desse conceito.
+
+A pensar em adicionar criar bichinhos para criar (galinha, vaquinha, gatinho...)
+
+o jogador tambem sai para explorar o mapa e ajudar com tarefas e favores desbloqueando item (ajuda npc com seu moinho -> aprende fazer moinho, ajuda outro com painel solar -> aprende energia solar, agua, aquecimento em epocas frias, decorações...)

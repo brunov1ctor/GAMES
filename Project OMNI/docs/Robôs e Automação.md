@@ -54,7 +54,7 @@ Cada robô prioriza automaticamente tarefas de maior importância:
 - Equipamentos críticos recebem manutenção primeiro
 - Recursos escassos passam a ser produzidos automaticamente
 
-A IA busca manter a base sempre operacional.
+A IA busca manter a base sempre operacional, será possivel usar microfone no jogo tipo dar um nome ao robo e ele obedecer tipo "Robo X vá coletar recurso" ou "Y vá explorar ..." temos que linkar a frase ao comando
 
 ---
 

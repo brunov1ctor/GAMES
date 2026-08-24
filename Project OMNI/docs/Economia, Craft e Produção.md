@@ -124,3 +124,5 @@ Reage aos acontecimentos do servidor: valor dos recursos, demanda por equipament
 Explorar → novos materiais → pesquisas → novas receitas → equipamentos melhores → regiões mais perigosas → loop.
 
 Produção é tão importante quanto combate.
+
+Adicionar mecanicas de hackear mobs presos para coletar informações como acontece no game shadow of mordor assim cada tipo de mob tera tier dentro do seu tipo derrotando os mais importantes vc pode conquistar respeito tornar aquele tipo não hostil ao aproximar ou outras coisas a pensar ao ser visto por mobs com respeito podemos colocar insignias estilo a de buffs e debufs para demonstrar isso

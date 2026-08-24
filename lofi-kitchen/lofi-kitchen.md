@@ -101,9 +101,8 @@ Ingredientes aparecem dinamicamente dependendo de:
 - Ovos
 
 **Noite:**
-- Peixe fresco
-- Cogumelos
-- Ingredientes premium
+- Peixe fresco ou pescar no lugar apropriado (implementar mecanica de pesca)
+- Cogumelos e Ingredientes premium(pode adicionar fazendinha e mecanicas de plantação em terreno apropriado para coleta auxiliar progressao lenta)
 
 **Dias chuvosos:**
 - Ingredientes para ensopados
@@ -368,6 +367,9 @@ Quanto maior a habilidade:
 | Chef de Rua | Especialista em espetos e frituras |
 | Chef Noturno | Buffs em pratos servidos à noite |
 
+adicionar mecanicas de dificuldade curvas diversas tipo queima rapido e aplica 1.xx de valor e preço ao prato ou ao ingrediente (ver churrasqueira do game how to fish)
+
+adicionar pratos que podem dar prejuizo no (cardapio preço livre ingredientes caros com dificuldade de chegar no prato padrao que pode ser lucrativo)
 ---
 
 ## MINIGAMES COZY DE COZINHA

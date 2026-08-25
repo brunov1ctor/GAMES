@@ -158,3 +158,10 @@ Cada elemento (Água, Fogo, Terra, Ar) possui experiência própria e independen
 Simples de aprender, difícil de dominar. Controles constantes durante toda a jornada. Profundidade surge pela especialização, evolução das magias, escolha de equipamentos e adaptação situacional.
 
 O jogador é incentivado a alternar entre físico e mágico conforme o inimigo, criando combate dinâmico, estratégico e visualmente variado.
+
+
+Poderes poderiam ser liberados via quest por exemplo evil seeds para player do reino da terra, criar quest de contexto depois player chega em um jardim com o mob planta ao derrotar ele pode dropar sementes malignas o player consegue carregar algumas sementes a depender do lvl da habilidade, ao usar a habilidade arremessa se a semente no chao apos alguns segundos uma pequena raiz aliada guspidora de veneno pode brotar (as sementes podem ser plantadas na base e funcionam como munições) novos poderes podem ser aprendidos como se fosse pokemon tipo bullet seeds e giga drain o tipo terra/grama como é voltado para tank faz sentido ter poderes de sustain 
+
+No modo Magico podemos classificar ataques como fisico, special e status para se fazer diversas builds (os slots de habilidade vao aumentando com nivel por exemplo nivel baixo 3 combos de até 3 habilidades coldown e tempo de execução da habilidade maior e nivel mais alto 6 combos de até 6 por exemplo) e lidar com diferentes terrenos e mobs. No modo arma o ataque basico aplica dano comum da arma o dificil sera balanciar isso. No inicio do game o modo arma será o foco ja que o player nao tem muitas habilidades aprendidas
+
+No exemplo da evil seed por exemplo a habilidade nivel inicial precisa do player parar pegar a semente no bolso (a canalização pode cancelar a habilidade) e conjurar nivel avançado da habilidade player lança a semente correndo no meio do combo (sem canalizar habilidade incancelavel).

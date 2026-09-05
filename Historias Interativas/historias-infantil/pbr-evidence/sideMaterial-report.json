@@ -1,0 +1,85 @@
+{
+  "ok": true,
+  "verdict": "pass",
+  "confidence": 0.86,
+  "estimatedFidelity": 0.86,
+  "targetThreshold": 0.7,
+  "materialId": "sideMaterial",
+  "sourceImage": "C:\\Users\\bruno\\OneDrive\\Documentos\\GAMES\\Historias Interativas\\historias-infantil\\reference\\grass-block.png",
+  "outDir": "C:\\Users\\bruno\\OneDrive\\Documentos\\GAMES\\Historias Interativas\\historias-infantil\\pbr-evidence",
+  "palette": [
+    "#486E3A",
+    "#443021",
+    "#5F4430",
+    "#78563C",
+    "#877B4F"
+  ],
+  "maps": {
+    "albedo": {
+      "path": "C:\\Users\\bruno\\OneDrive\\Documentos\\GAMES\\Historias Interativas\\historias-infantil\\pbr-evidence\\sidematerial_albedo.png",
+      "url": "sidematerial_albedo.png",
+      "channel": "albedo",
+      "source": "reference-pixel-extraction"
+    },
+    "roughness": {
+      "path": "C:\\Users\\bruno\\OneDrive\\Documentos\\GAMES\\Historias Interativas\\historias-infantil\\pbr-evidence\\sidematerial_roughness.png",
+      "url": "sidematerial_roughness.png",
+      "channel": "roughness",
+      "source": "reference-pixel-extraction"
+    },
+    "height": {
+      "path": "C:\\Users\\bruno\\OneDrive\\Documentos\\GAMES\\Historias Interativas\\historias-infantil\\pbr-evidence\\sidematerial_height.png",
+      "url": "sidematerial_height.png",
+      "channel": "height",
+      "source": "reference-pixel-extraction"
+    },
+    "normal": {
+      "path": "C:\\Users\\bruno\\OneDrive\\Documentos\\GAMES\\Historias Interativas\\historias-infantil\\pbr-evidence\\sidematerial_normal.png",
+      "url": "sidematerial_normal.png",
+      "channel": "normal",
+      "source": "reference-pixel-extraction"
+    },
+    "ao": {
+      "path": "C:\\Users\\bruno\\OneDrive\\Documentos\\GAMES\\Historias Interativas\\historias-infantil\\pbr-evidence\\sidematerial_ao.png",
+      "url": "sidematerial_ao.png",
+      "channel": "ao",
+      "source": "reference-pixel-extraction"
+    }
+  },
+  "diagnostics": {
+    "sourceWidth": 300,
+    "sourceHeight": 300,
+    "mapSize": 1024,
+    "cropBBoxPixels": {
+      "x": 13,
+      "y": 0,
+      "width": 274,
+      "height": 300
+    },
+    "mask": {
+      "backgroundColor": "#000000",
+      "backgroundNoise": 0.0,
+      "transparentPixelFraction": 0.0,
+      "foregroundCoverage": 0.6879
+    },
+    "mapStats": {
+      "valueRange": 0.3148,
+      "heightP90Gradient": 0.05498,
+      "roughnessBase": 0.71,
+      "roughnessVariation": 0.113,
+      "normalStrength": 0.221,
+      "blurRadius": 21
+    },
+    "palette": [
+      "#486E3A",
+      "#443021",
+      "#5F4430",
+      "#78563C",
+      "#877B4F"
+    ]
+  },
+  "warnings": [
+    "single-image inverse rendering cannot prove true physical PBR; confidence is capped"
+  ],
+  "limitation": "single-image PBR extraction is an estimate; 70%+ extraction confidence still needs render screenshot review"
+}

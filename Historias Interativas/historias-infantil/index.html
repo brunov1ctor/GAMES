@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Baloo+2:wght@400..800&display=swap" rel="stylesheet" />
+    <title>Histórias Mágicas</title>
+  </head>
+  <body>
+    <div id="canvas-host"></div>
+    <div id="flash"></div>
+
+    <div id="smooth-wrapper">
+      <div id="smooth-content">
+        <main id="scroll-content">
+          <section id="chapter-hero" class="chapter chapter--hero">
+            <h1>Histórias Mágicas</h1>
+            <p>Role a tela para explorar a ilha e aprender brincando!</p>
+          </section>
+
+          <section id="chapter-forest" class="chapter">
+            <div class="chapter__label">Capítulo 1 · Floresta das Letras</div>
+            <p class="chapter__story">Psiu! As letrinhas da floresta se espalharam pelo chão. Vamos juntar elas de novo?</p>
+            <div class="game-panel">
+              <div class="game-panel__content"></div>
+            </div>
+          </section>
+
+          <section id="chapter-village" class="chapter">
+            <div class="chapter__label">Capítulo 2 · Vila dos Números</div>
+            <p class="chapter__story">Opa! Os números sumiram das casinhas da vila. Em breve você me ajuda a contar de novo!</p>
+            <p class="chapter__hint">(em breve: jogo de contagem aqui)</p>
+          </section>
+
+          <section id="chapter-portal" class="chapter">
+            <div class="chapter__label">Capítulo 3 · Portal Mágico</div>
+            <p class="chapter__story">Uau, olha o portal brilhando! Será que tem mais aventuras do outro lado?</p>
+            <p class="chapter__hint">Clique no portal roxo para terminar a jornada</p>
+            <div id="portal-end" class="portal-end">
+              <p class="portal-end__title">Fim da jornada! ✨</p>
+              <p class="portal-end__score">Você fez <strong id="portal-end-score">0</strong> pontos!</p>
+              <form id="portal-end-form" class="portal-end__form">
+                <label for="portal-end-name">Qual é o seu nome?</label>
+                <input id="portal-end-name" type="text" maxlength="20" placeholder="Digite aqui" autocomplete="off" required />
+                <button type="submit">Salvar</button>
+              </form>
+              <p id="portal-end-result" class="portal-end__result" hidden></p>
+            </div>
+          </section>
+        </main>
+      </div>
+    </div>
+
+    <script type="module" src="/src/main.ts"></script>
+  </body>
+</html>
